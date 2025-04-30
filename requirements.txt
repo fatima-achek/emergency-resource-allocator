@@ -1,0 +1,10 @@
+# Emergency Resource Allocation System Dependencies
+# Required packages for running the system
+
+# For testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# For development
+pylint==2.17.5
+black==23.7.0

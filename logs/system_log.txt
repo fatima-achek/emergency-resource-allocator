@@ -1,0 +1,12 @@
+=== Emergency Resource Allocation System Log ===
+Started: 2025-04-30 17:14:42
+
+[2025-04-30 17:14:42] [INFO] Emergency Resource Allocation System starting up
+[2025-04-30 17:14:42] [INFO] System initialized successfully
+[2025-04-30 17:14:42] [INFO] Adding sample data to system
+[2025-04-30 17:14:42] [INFO] Added 2 sample resources and 5 sample incidents
+[2025-04-30 17:14:42] [INFO] System main loop started
+[2025-04-30 17:21:17] [ACTION]   Assigned Ambulance AM1000 to Incident #6
+[2025-04-30 18:02:16] [ACTION]   Assigned Ambulance AM1001 to Incident #7
+[2025-04-30 18:02:16] [ACTION]   Assigned Fire Truck FI1002 to Incident #7
+[2025-04-30 18:03:18] [INFO] System shutting down
